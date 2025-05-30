@@ -1,8 +1,8 @@
 ## ABOUT ME
 
-name : ```Nayan Developer```</br>
+name : ```Ripon hasan```</br>
 age : ```20```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
+link : [facebook](https://www.facebook.com/tor.abbu.ceo.ripon).</br>
 
 ## CREDITS
 
